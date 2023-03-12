@@ -2,6 +2,6 @@
 
 public class Team : BaseEntity
 {
-    public string Street { get; set; } = default!;
+    public string Name { get; set; } = default!;
     public List<Employee> Employees { get; set; } = default!;
 }
