@@ -1,4 +1,4 @@
-﻿using EmployeeManage.Common.DTOs;
+﻿using EmployeeManage.Common.DTOs.Address;
 
 namespace EmployeeManage.Common.Interfaces;
 

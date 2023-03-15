@@ -10,5 +10,6 @@ public class DIConfiguration
     {
         services.AddAutoMapper(typeof(DtoEntityMapperProfile));
         services.AddScoped<IAddressService, AddressService>();
+        services.AddScoped<IJobService, JobService>();
     }
 }

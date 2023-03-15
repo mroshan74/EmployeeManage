@@ -1,4 +1,4 @@
-﻿namespace EmployeeManage.Common.DTOs;
+﻿namespace EmployeeManage.Common.DTOs.Address;
 
 public record AddressGet(
     int Id,

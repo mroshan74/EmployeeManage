@@ -1,4 +1,4 @@
-﻿using EmployeeManage.Common.DTOs;
+﻿using EmployeeManage.Common.DTOs.Address;
 using EmployeeManage.Common.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
